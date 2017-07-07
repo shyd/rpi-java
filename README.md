@@ -1,4 +1,4 @@
-# rpi-java [![Build Status](https://travis-ci.org/hypriot/rpi-java.svg?branch=master)](https://travis-ci.org/hypriot/rpi-java)
+# rpi-java
 
 Raspberry Pi compatible Docker base image with OpenJDK, an open-source implementation of the Java Platform.
 
